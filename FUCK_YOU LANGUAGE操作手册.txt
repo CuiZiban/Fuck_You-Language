@@ -1,0 +1,286 @@
+FUCK_YOU LANGUAGE 指令手册
+==========================
+
+## 前言：更差的体验，更慢的运行，更懒的更新，这就是您应该选择我们的最大原因！
+
+输入输出指令
+----------
+FUCK CNM <变量>    输入整数到变量
+
+FUCK cnm <变量>    输入字符到变量  
+
+fuck CNM <变量/值>  输出整数
+
+fuck cnm <变量/值>  输出字符
+
+变量指令
+-------
+FuCk <变量> <初始值>          定义变量，初始值可为数字或变量
+
+fUcK <变量> <运算符> <值>     算术运算，值可为数字或变量
+
+运算符列表：
+
+Fuck  ->  + 加法
+
+fUck  ->  - 减法  
+
+fuCk  ->  * 乘法
+
+fuck  ->  / 除法
+
+FUck  ->  > 大于比较
+
+fuCK  ->  == 等于比较
+
+数组指令
+-------
+FUcK <数组名>   定义数组
+
+fUCK <数组> <索引> <值>      设置数组元素，索引和值可为数字或变量
+
+FUCk <变量> <数组> <索引>    读取数组元素到变量，索引可为数字或变量
+
+控制流指令
+---------
+FucK <条件> <起始行> <结束行>  条件执行，条件为变量名、数字(0假非0真)
+
+fUCk <条件> <起始行> <结束行>  循环执行，条件为变量名、数字(0假非0真)
+
+特殊标记
+-------
+I_START_TO_FUCK_YOU!     程序开始
+
+I_HAD_FUCK_YOU!          程序结束
+
+YOU!                     每条语句结束符
+
+参数说明：
+- <变量>：变量名
+- <值>：数字或变量名
+- <索引>：数字或变量名
+- <条件>：变量名(0为假，非0为真)
+- <起始行>/<结束行>：数字，表示代码行偏移
+- <起始>/<结束>：数字或变量，循环范围
+
+示例（空行可以不加）：
+
+1.输入n，输出n+1
+
+I_START_TO_FUCK_YOU!
+
+FUCK CNM n YOU!
+
+FuCk result 1 YOU!
+
+fUcK result Fuck n YOU!
+
+fuck CNM result YOU!
+
+I_HAD_FUCK_YOU!
+
+2.输入n个数，倒序输出(n<=1000)
+
+FUCK CNM X YOU!
+
+fUCK L N X YOU!
+
+fUcK N fUck 1 YOU!
+
+FucK N 1 4 YOU!
+
+I_START_TO_FUCK_YOU!
+
+FUcK L YOU!
+
+FUCK CNM N YOU!
+
+FuCk M N YOU!
+
+FucK N 1 4 YOU!
+
+FuCk N 0 YOU! 
+
+FuCk K 0 YOU! 
+
+fUcK N Fuck 1 YOU!
+
+fUcK K Fuck M YOU!
+
+fUcK K fUck N YOU!
+
+FuCk J 0 YOU! 
+
+FUCk J L N YOU!
+
+fuck CNM J YOU!
+
+fuck cnm 32 YOU!
+
+FucK K 10 18 YOU!
+
+I_HAD_FUCK_YOU!
+
+3.输入n，输出n个SB
+
+fuck cnm 83 YOU!
+
+fuck cnm 66 YOU!
+
+fuck cnm 10 YOU!
+
+fUcK N fUck 1 YOU!
+
+I_START_TO_FUCK_YOU!
+
+FUCK CNM N YOU!
+
+fUCk N 1 4 YOU!
+
+I_HAD_FUCK_YOU!
+
+
+
+English:
+FUCK_YOU LANGUAGE Operation Manual.txt‌
+
+FUCK_YOU LANGUAGE Instruction Manual‌
+
+## Preface: Worse experience, slower execution, lazier updates – these are the biggest reasons you should choose us!‌
+
+Input/Output Instructions‌
+
+FUCK CNM <variable> Input integer into variable
+
+FUCK cnm <variable> Input character into variable
+
+fuck CNM <variable/value> Output integer
+
+fuck cnm <variable/value> Output character
+
+Variable Instructions‌
+
+FuCk <variable> <initial_value> Define variable, initial value can be a number or variable
+
+fUcK <variable> <operator> <value> Arithmetic operation, value can be a number or variable
+
+Operator List:‌
+
+Fuck -> + Addition
+
+fUck -> - Subtraction
+
+fuCk -> * Multiplication
+
+fuck -> / Division
+
+FUck -> > Greater than comparison
+
+fuCK -> == Equal comparison
+
+Array Instructions‌
+
+FUcK <array_name> Define array
+
+fUCK <array> <index> <value> Set array element, index and value can be numbers or variables
+
+FUCk <variable> <array> <index> Read array element into variable, index can be a number or variable
+
+Control Flow Instructions‌
+
+FucK <condition> <start_line> <end_line> Conditional execution, condition is a variable name or number (0 false, non-zero true)
+
+fUCk <condition> <start_line> <end_line> Loop execution, condition is a variable name or number (0 false, non-zero true)
+
+Special Markers‌
+
+I_START_TO_FUCK_YOU! Program start
+
+I_HAD_FUCK_YOU! Program end
+
+YOU! End of each statement marker
+
+Parameter Description:‌
+
+<variable>: Variable name
+<value>: Number or variable name
+<index>: Number or variable name
+<condition>: Variable name (0 is false, non-zero is true)
+<start_line>/<end_line>: Numbers, representing code line offsets
+<start>/<end>: Numbers or variables, loop range
+
+Examples (blank lines can be omitted):‌
+
+Input n, output n+1
+
+I_START_TO_FUCK_YOU!
+
+FUCK CNM n YOU!
+
+FuCk result 1 YOU!
+
+fUcK result Fuck n YOU!
+
+fuck CNM result YOU!
+
+I_HAD_FUCK_YOU!
+
+Input n numbers, output in reverse order (n<=1000)
+
+FUCK CNM X YOU!
+
+fUCK L N X YOU!
+
+fUcK N fUck 1 YOU!
+
+FucK N 1 4 YOU!
+
+I_START_TO_FUCK_YOU!
+
+FUcK L YOU!
+
+FUCK CNM N YOU!
+
+FuCk M N YOU!
+
+FucK N 1 4 YOU!
+
+FuCk N 0 YOU!
+
+FuCk K 0 YOU!
+
+fUcK N Fuck 1 YOU!
+
+fUcK K Fuck M YOU!
+
+fUcK K fUck N YOU!
+
+FuCk J 0 YOU!
+
+FUCk J L N YOU!
+
+fuck CNM J YOU!
+
+fuck cnm 32 YOU!
+
+FucK K 10 18 YOU!
+
+I_HAD_FUCK_YOU!
+
+Input n, output n times SB
+
+fuck cnm 83 YOU!
+
+fuck cnm 66 YOU!
+
+fuck cnm 10 YOU!
+
+fUcK N fUck 1 YOU!
+
+I_START_TO_FUCK_YOU!
+
+FUCK CNM N YOU!
+
+fUCk N 1 4 YOU!
+
+I_HAD_FUCK_YOU!
