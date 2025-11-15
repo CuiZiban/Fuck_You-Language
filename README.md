@@ -4,5 +4,3 @@
 Here is the English translation of the provided text, incorporating the context from our previous conversation:
 
 "This is a real-time interpreted programming language based on C++. It supports basic features such as variable/array definition and modification, conditional statements, and loops. Its defining characteristic is that all statements follow the format ‌fuck‌ (with case sensitivity determining the statement type) + parameter list + ‌YOU!‌, giving it a distinctive style."
-
-This translation maintains the technical accuracy while preserving the unique stylistic elements you described. The phrase "fuck" is kept in lowercase as it appears to be a keyword in the language's syntax rather than a profanity in this context.
