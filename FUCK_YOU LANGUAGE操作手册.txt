@@ -27,7 +27,7 @@ fUck  ->  - 减法
 
 fuCk  ->  * 乘法
 
-fuck  ->  / 除法
+fucK  ->  / 除法
 
 FUck  ->  > 大于比较
 
@@ -139,148 +139,60 @@ fUCk N 1 4 YOU!
 
 I_HAD_FUCK_YOU!
 
+4.快速幂（输入a，b，p，输出a^b%p）
+
+fUcK ans fuCk now YOU!
 
 
-English:
-FUCK_YOU LANGUAGE Operation Manual.txt‌
+FuCk mod1 b YOU!
 
-FUCK_YOU LANGUAGE Instruction Manual‌
+FuCk mod2 2 YOU!
 
-## Preface: Worse experience, slower execution, lazier updates – these are the biggest reasons you should choose us!‌
+FuCk tmp1 mod1 YOU!
 
-Input/Output Instructions‌
+fUcK tmp1 fucK mod2 YOU!
 
-FUCK CNM <variable> Input integer into variable
+fUcK tmp1 fuCk mod2 YOU!
 
-FUCK cnm <variable> Input character into variable
+fUcK mod1 fUck tmp1 YOU!
 
-fuck CNM <variable/value> Output integer
+FucK mod1 1 1 YOU!
 
-fuck cnm <variable/value> Output character
+fUcK now fuCk now YOU!
 
-Variable Instructions‌
+FuCk tmp1 now YOU!
 
-FuCk <variable> <initial_value> Define variable, initial value can be a number or variable
+fUcK tmp1 fucK p YOU!
 
-fUcK <variable> <operator> <value> Arithmetic operation, value can be a number or variable
+fUcK tmp1 fuCk p YOU!
 
-Operator List:‌
+fUcK now fUck tmp1 YOU!
 
-Fuck -> + Addition
+FuCk tmp1 ans YOU!
 
-fUck -> - Subtraction
+fUcK tmp1 fucK p YOU!
 
-fuCk -> * Multiplication
+fUcK tmp1 fuCk p YOU!
 
-fuck -> / Division
+fUcK ans fUck tmp1 YOU!
 
-FUck -> > Greater than comparison
+fUcK b fucK 2 YOU!
 
-fuCK -> == Equal comparison
-
-Array Instructions‌
-
-FUcK <array_name> Define array
-
-fUCK <array> <index> <value> Set array element, index and value can be numbers or variables
-
-FUCk <variable> <array> <index> Read array element into variable, index can be a number or variable
-
-Control Flow Instructions‌
-
-FucK <condition> <start_line> <end_line> Conditional execution, condition is a variable name or number (0 false, non-zero true)
-
-fUCk <condition> <start_line> <end_line> Loop execution, condition is a variable name or number (0 false, non-zero true)
-
-Special Markers‌
-
-I_START_TO_FUCK_YOU! Program start
-
-I_HAD_FUCK_YOU! Program end
-
-YOU! End of each statement marker
-
-Parameter Description:‌
-
-<variable>: Variable name
-<value>: Number or variable name
-<index>: Number or variable name
-<condition>: Variable name (0 is false, non-zero is true)
-<start_line>/<end_line>: Numbers, representing code line offsets
-<start>/<end>: Numbers or variables, loop range
-
-Examples (blank lines can be omitted):‌
-
-Input n, output n+1
 
 I_START_TO_FUCK_YOU!
 
-FUCK CNM n YOU!
+FUCK CNM a YOU!
 
-FuCk result 1 YOU!
+FUCK CNM b YOU!
 
-fUcK result Fuck n YOU!
+FUCK CNM p YOU!
 
-fuck CNM result YOU!
+FuCk now a YOU!
 
-I_HAD_FUCK_YOU!
+FuCk ans 1 YOU!
 
-Input n numbers, output in reverse order (n<=1000)
+fUCk b 2 18 YOU!
 
-FUCK CNM X YOU!
-
-fUCK L N X YOU!
-
-fUcK N fUck 1 YOU!
-
-FucK N 1 4 YOU!
-
-I_START_TO_FUCK_YOU!
-
-FUcK L YOU!
-
-FUCK CNM N YOU!
-
-FuCk M N YOU!
-
-FucK N 1 4 YOU!
-
-FuCk N 0 YOU!
-
-FuCk K 0 YOU!
-
-fUcK N Fuck 1 YOU!
-
-fUcK K Fuck M YOU!
-
-fUcK K fUck N YOU!
-
-FuCk J 0 YOU!
-
-FUCk J L N YOU!
-
-fuck CNM J YOU!
-
-fuck cnm 32 YOU!
-
-FucK K 10 18 YOU!
-
-I_HAD_FUCK_YOU!
-
-Input n, output n times SB
-
-fuck cnm 83 YOU!
-
-fuck cnm 66 YOU!
-
-fuck cnm 10 YOU!
-
-fUcK N fUck 1 YOU!
-
-I_START_TO_FUCK_YOU!
-
-FUCK CNM N YOU!
-
-fUCk N 1 4 YOU!
+fuck CNM ans YOU!
 
 I_HAD_FUCK_YOU!
