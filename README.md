@@ -5,6 +5,8 @@
 
 这是一个基于C++的实时解释型编程语言。功能有简单的变量/数组定义和修改、条件与循环等。其特点有：所有语句的格式均为fuck（依据大小写区分语句）+参数表+YOU!，风格独特。
 
+运行可执行文件时先输入合法代码，再输入数据。
+
 **English Translation:**
 
 **Note:** This project is for entertainment and technical discussion only. It contains no harmful content or malicious intent.
@@ -14,3 +16,5 @@
 This is a real-time interpreted programming language based on C++. It supports basic features such as variable/array definition and modification, conditional statements, loops, and more. 
 
 Its unique characteristic is that all statements follow the format of "fuck" (case-sensitive to distinguish commands) + parameter list + "YOU!", giving it a distinctive style.
+
+When running the executable file, first input valid code, then input the data.
