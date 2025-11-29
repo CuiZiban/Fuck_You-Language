@@ -24,7 +24,7 @@ void donum(string x,int nowif)
 }
 void error(int nowif)
 {
-	cout<<"error!you fucked yourself by a wrong way!\nfrom ";
+	cout<<"error!you fucked ccf by a wrong way!\nfrom ";
 	if(a[nowif][0]==1)cout<<"in ";
 	if(a[nowif][1]==1)cout<<"out ";
 	if(a[nowif][2]==1)cout<<"defnum ";
@@ -148,11 +148,11 @@ void dosth(string x,int nowif)
 				int cntend=0;
 				for(i2[nowif]=0;cntend<nums[nowif][1].b-1&&i2[nowif]<cntcode;i2[nowif]++)
 				{
-					if(s[i2[nowif]]=="YOU!")cntend++;
+					if(s[i2[nowif]]=="CCF!")cntend++;
 				}
 				for(;cntend<nums[nowif][2].b&&i2[nowif]<cntcode;i2[nowif]++)
 				{
-					if(s[i2[nowif]]=="YOU!")
+					if(s[i2[nowif]]=="CCF!")
 					{
 						dosth("end",nowif+1);
 						cntend++;
@@ -181,11 +181,11 @@ void dosth(string x,int nowif)
 				int cntend=0;
 				for(i2[nowif]=0;cntend<nums[nowif][1].b-1&&i2[nowif]<cntcode;i2[nowif]++)
 				{
-					if(s[i2[nowif]]=="YOU!")cntend++;
+					if(s[i2[nowif]]=="CCF!")cntend++;
 				}
 				for(;cntend<nums[nowif][2].b&&i2[nowif]<cntcode;i2[nowif]++)
 				{
-					if(s[i2[nowif]]=="YOU!")
+					if(s[i2[nowif]]=="CCF!")
 					{
 						dosth("end",nowif+1);
 						cntend++;
@@ -216,11 +216,11 @@ signed main()
 	{
 		cin>>s[cntcode];
 		cntcode++;
-		if(s[cntcode-1]=="I_HAD_FUCK_YOU!")break;
+		if(s[cntcode-1]=="I_HAD_FUCK_CCF!")break;
 	}
 	for(i2[0]=0;i2[0]<cntcode-1;i2[0]++)
 	{
-		if(s[i2[0]]=="I_START_TO_FUCK_YOU!")
+		if(s[i2[0]]=="I_START_TO_FUCK_CCF!")
 		{
 			beg=1;
 			continue;
@@ -235,7 +235,7 @@ signed main()
 		else if(s[i2[0]]=="FUCk")dosth("listtonum",1);
 		else if(s[i2[0]]=="FucK")dosth("if",1);
 		else if(s[i2[0]]=="fUCk")dosth("for",1);
-		else if(s[i2[0]]=="YOU!")dosth("end",1);
+		else if(s[i2[0]]=="CCF!")dosth("end",1);
 		else dosth("num",1);
 	}
 }
