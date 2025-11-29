@@ -1,0 +1,211 @@
+**FUCK_YOU LANGUAGE Instruction Manual**
+==========================
+
+## **Preface: Worse Experience, Slower Execution, Lazier Updates — That's Exactly Why You Should Choose Us!**
+
+---
+
+## **I/O Instructions**
+
+`FUCK CNM <var>`     Input an integer into the variable
+
+`FUCK cnm <var>`     Input a character into the variable
+
+`fuck CNM <var/value>`   Output an integer
+
+`fuck cnm <var/value>`   Output a character
+
+---
+
+## **Variable Instructions**
+
+`FuCk <var> <initial_value>`          Define a variable; initial value can be a number or another variable
+
+`fUcK <var> <operator> <value>`       Perform arithmetic; value can be a number or variable
+
+**Operator List:**
+
+`Fuck`  ->  `+` Addition
+
+`fUck`  ->  `-` Subtraction
+
+`fuCk`  ->  `*` Multiplication
+
+`fucK`  ->  `/` Division
+
+`FUck`  ->  `>` Greater than comparison
+
+`fuCK`  ->  `==` Equal to comparison
+
+---
+
+## **Array Instructions**
+
+`FUcK <array_name>`    Define an array
+
+`fUCK <array> <index> <value>`       Set array element; index and value can be numbers or variables
+
+`FUCk <var> <array> <index>`     Read array element into variable; index can be a number or variable
+
+---
+
+## **Control Flow Instructions**
+
+`FucK <condition> <start_line> <end_line>`  Conditional execution; condition is a variable name or number (0=false, non-zero=true)
+
+`fUCk <condition> <start_line> <end_line>`  Loop execution; condition is a variable name or number (0=false, non-zero=true)
+
+---
+
+## **Special Markers**
+
+`I_START_TO_FUCK_YOU!`     Program start
+
+`I_HAD_FUCK_YOU!`          Program end
+
+`YOU!`                     End of each statement
+
+---
+
+## **Parameter Explanation:**
+
+- `<var>`: Variable name
+- `<value>`: Number or variable name
+- `<index>`: Number or variable name
+- `<condition>`: Variable name or number (0=false, non-zero=true)
+- `<start_line>/<end_line>`: Numbers, indicating code line offsets
+- `<start>/<end>`: Numbers or variables, loop range
+
+---
+
+## **Examples (blank lines optional):**
+
+**1. Input n, output n+1**
+
+I_START_TO_FUCK_YOU!
+
+FUCK CNM n YOU!
+
+FuCk result 1 YOU!
+
+fUcK result Fuck n YOU!
+
+fuck CNM result YOU!
+
+I_HAD_FUCK_YOU!
+
+**2. Input n numbers, output in reverse order (n<=1000)**
+
+FUCK CNM X YOU!
+
+fUCK L N X YOU!
+
+fUcK N fUck 1 YOU!
+
+FucK N 1 4 YOU!
+
+I_START_TO_FUCK_YOU!
+
+FUcK L YOU!
+
+FUCK CNM N YOU!
+
+FuCk M N YOU!
+
+FucK N 1 4 YOU!
+
+FuCk N 0 YOU!
+
+FuCk K 0 YOU!
+
+fUcK N Fuck 1 YOU!
+
+fUcK K Fuck M YOU!
+
+fUcK K fUck N YOU!
+
+FuCk J 0 YOU!
+
+FUCk J L N YOU!
+
+fuck CNM J YOU!
+
+fuck cnm 32 YOU!
+
+FucK K 10 18 YOU!
+
+I_HAD_FUCK_YOU!
+
+**3. Input n, output n times "SB"**
+
+fuck cnm 83 YOU!
+
+fuck cnm 66 YOU!
+
+fuck cnm 10 YOU!
+
+fUcK N fUck 1 YOU!
+
+I_START_TO_FUCK_YOU!
+
+FUCK CNM N YOU!
+
+fUCk N 1 4 YOU!
+
+I_HAD_FUCK_YOU!
+
+**4. Fast exponentiation modulo (input a, b, p, output a^b % p)**
+
+fUcK ans fuCk now YOU!
+
+FuCk mod1 b YOU!
+
+FuCk mod2 2 YOU!
+
+FuCk tmp1 mod1 YOU!
+
+fUcK tmp1 fucK mod2 YOU!
+
+fUcK tmp1 fuCk mod2 YOU!
+
+fUcK mod1 fUck tmp1 YOU!
+
+FucK mod1 1 1 YOU!
+
+fUcK now fuCk now YOU!
+
+FuCk tmp1 now YOU!
+
+fUcK tmp1 fucK p YOU!
+
+fUcK tmp1 fuCk p YOU!
+
+fUcK now fUck tmp1 YOU!
+
+FuCk tmp1 ans YOU!
+
+fUcK tmp1 fucK p YOU!
+
+fUcK tmp1 fuCk p YOU!
+
+fUcK ans fUck tmp1 YOU!
+
+fUcK b fucK 2 YOU!
+
+I_START_TO_FUCK_YOU!
+
+FUCK CNM a YOU!
+
+FUCK CNM b YOU!
+
+FUCK CNM p YOU!
+
+FuCk now a YOU!
+
+FuCk ans 1 YOU!
+
+fUCk b 2 18 YOU!
+
+fuck CNM ans YOU!
+
+I_HAD_FUCK_YOU!
